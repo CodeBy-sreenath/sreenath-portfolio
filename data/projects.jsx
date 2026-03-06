@@ -1,37 +1,38 @@
 const projects = [
   {
     title: "Result Analysis System",
-    description:
-      "AI powered MERN stack student result management system that analyzes results and calculates pass percentage.",
+    description: "AI-powered MERN stack student result management system that analyzes results and calculates pass percentage with intelligent insights.",
     link: "https://result-analyis-c8rb.vercel.app/",
+    tag: "AI + MERN",
+    color: "#00f5a0",
   },
-
   {
     title: "YATHRA Bus Booking",
-    description:
-      "Bus seat booking system with secure payment using Stripe.",
+    description: "Seamless bus seat booking platform with real-time availability and secure Stripe-powered payments.",
     link: "https://bus-ticket-dnz6.vercel.app/",
+    tag: "FinTech",
+    color: "#00d2ff",
   },
-
   {
     title: "AI Farmer",
-    description:
-      "AI powered crop disease detection system using leaf images with confidence score and solutions.",
+    description: "AI-powered crop disease detection using leaf images — delivers confidence scores and actionable remedies instantly.",
     link: "https://ai-farmer-wsqz.vercel.app/",
+    tag: "Computer Vision",
+    color: "#a8ff78",
   },
-
   {
     title: "QuickGrieve",
-    description:
-      "Mobile app for submitting civic complaints. AI prioritizes complaints using NLP.",
+    description: "Mobile app for civic complaint submission. AI prioritizes complaints using NLP to ensure faster government response.",
     link: "#",
+    tag: "NLP + Flutter",
+    color: "#f7971e",
   },
-
   {
     title: "Zar TradeLinks",
-    description:
-      "Company website developed using Next.js.",
+    description: "Professional company website built with Next.js — fast, SEO-optimized and visually compelling for a global trade brand.",
     link: "https://zar-tradelinks.vercel.app/",
+    tag: "Next.js",
+    color: "#c471ed",
   },
 ];
 
